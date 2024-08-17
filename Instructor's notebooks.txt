@@ -28,5 +28,11 @@ https://colab.research.google.com/drive/1LePLILhWxLOOJRMCPbaDOSk4_bFYAmQi?usp=sh
 10- matrix factorization - collaborative filtering (movie rating prediction system):
 https://colab.research.google.com/drive/1M1xCLD5S-L6FRDUWuSEDiqGbKJSeEK1D?usp=sharing
 
-11- early stopping - loss function :
+11- Ann - early stopping - loss function :
 https://colab.research.google.com/drive/1HGzGXdY-98Xxe1cRfQ2ptxxJO7XEkbVX?usp=sharing
+
+12- fuzzy c-means clustering : 
+https://colab.research.google.com/drive/1scwfi7Q4bGAOLVCbdjVLNm0DgnO35RMQ?usp=sharing
+
+13- affinity propagation clustering :
+https://colab.research.google.com/drive/1fkgNojwN6vpvZTIKz8fv3UnshIs42fOR?usp=sharing
