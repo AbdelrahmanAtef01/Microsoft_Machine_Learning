@@ -95,7 +95,7 @@ This track spans a range of essential topics in python, machine learning, deep l
 you can find all these projects in ready to use Notebooke on Colab and Kaggle, Here is your start:
 
 [![Kaggle Link](https://img.shields.io/badge/Kaggle%20Account-20beff?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdelrahmanatef01)
-[![Google Colab Link](https://img.shields.io/badge/Colab%20Account-yellow?style=for-the-badge&logo=googlecolab&logoColor=white)](https://drive.google.com/drive/folders/18K0KEzpM58eCmgOAZqqvAC1fZUWMlUmG?usp=sharing)
+[![Google Colab Link](https://img.shields.io/badge/Colab%20Notebooks-yellow?style=for-the-badge&logo=googlecolab&logoColor=white)](https://drive.google.com/drive/folders/18K0KEzpM58eCmgOAZqqvAC1fZUWMlUmG?usp=sharing)
 
 ---
 
