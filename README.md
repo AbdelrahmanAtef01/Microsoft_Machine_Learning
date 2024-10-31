@@ -12,6 +12,7 @@ This repository contains all technical materials and resources for DEPI students
 - [Overview](#overview)
 - [Installation](#installtion)
 - [Topics Covered](#topics-covered)
+- [Notebooks](#notebooks)
 - [Contributing](#contributing)
 
 ## 🌟📘 Overview
@@ -88,6 +89,13 @@ This track spans a range of essential topics in python, machine learning, deep l
 > **Note**: This repository documents our journey and our specific tasks, so materials and tasks may differ for others. However, this repository provides a comprehensive overview of everything covered in my DEPI Microsoft Machine Learning track journey.
 
 > Also note that Some of these projects were optional and allowed for added complexity. Examples include projects like chess algorithms, TACTIC-ZONE, etc.
+
+
+## Notebooks
+you can find all these projects in ready to use Notebooke on Colab and Kaggle, Here is your start:
+
+[![Kaggle Link](https://img.shields.io/badge/Kaggle%20Account-20beff?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdelrahmanatef01)
+[![Google Colab Link](https://img.shields.io/badge/Colab%20Account-yellow?style=for-the-badge&logo=googlecolab&logoColor=white)](https://drive.google.com/drive/folders/18K0KEzpM58eCmgOAZqqvAC1fZUWMlUmG?usp=sharing)
 
 ---
 
