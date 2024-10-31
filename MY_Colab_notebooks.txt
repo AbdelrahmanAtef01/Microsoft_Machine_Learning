@@ -1,0 +1,7 @@
+Here is a Google Drive link to almost all notebooks and more on Colab if you want to use the notebooks remotely.
+
+you will find them with the same names that are in this repo.
+
+link:
+https://drive.google.com/drive/folders/18K0KEzpM58eCmgOAZqqvAC1fZUWMlUmG?usp=sharing
+

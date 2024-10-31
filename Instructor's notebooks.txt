@@ -1,7 +1,7 @@
-1- python oop :
+1- python OOP:
 https://colab.research.google.com/drive/1sMG43kmWmJJbCzbjVL6oLBz-zWD2cWyn?usp=sharing
 
-2- numpy - data visualization - pandas :
+2- Numpy - data visualization - Pandas :
 https://colab.research.google.com/drive/1IUcZ6YkDrJ6Lnj65Tg7yFIUQsKGsqpKC?usp=sharing
 
 3- getting data insights (roller coaster dataset):
@@ -13,26 +13,44 @@ https://colab.research.google.com/drive/1x-nHmRP4rkTza6Xae3XOnhL7bEHX5q6t?usp=sh
 5- logistic regression - measuring model performance (titanic dataset):
 https://colab.research.google.com/drive/1MtyWccjQDo6cQLv7eHGbMi2faBQIX5fJ?usp=sharing
 
-6- naivebayes - decision tree - random forest classifiers (titanic dataset):
+6- NaiveBayes - Decision Tree - Random Forest classifiers (titanic dataset):
 https://colab.research.google.com/drive/18KkLwgx924jEXL5XEciQ-iP_BFVm7eXp?usp=sharing
 
-7- cnn models :
+7- CNN models :
 https://colab.research.google.com/drive/1DlQSj-0QnJjEV8X9jA9dxTEsu40_UM_I?usp=sharing
 
 8- preprocessing & feature engineering (california housing dataset):
 https://colab.research.google.com/drive/1NFH7aZ7HyGLL-r03NoBiqptcOvNgA9ab?usp=sharing
 
-9- nlp - content based reccomendation filtering (movie recommendation system):
+9- content based reccomendation filtering (movie recommendation system):
 https://colab.research.google.com/drive/1LePLILhWxLOOJRMCPbaDOSk4_bFYAmQi?usp=sharing
 
-10- matrix factorization - collaborative filtering (movie rating prediction system):
+10- Matrix Factorization - Collaborative Filtering (movie rating prediction system):
 https://colab.research.google.com/drive/1M1xCLD5S-L6FRDUWuSEDiqGbKJSeEK1D?usp=sharing
 
-11- Ann - early stopping - loss function :
+11- ANN - Early Stopping - Loss Function :
 https://colab.research.google.com/drive/1HGzGXdY-98Xxe1cRfQ2ptxxJO7XEkbVX?usp=sharing
 
-12- fuzzy c-means clustering : 
+12- Fuzzy C-Means clustering : 
 https://colab.research.google.com/drive/1scwfi7Q4bGAOLVCbdjVLNm0DgnO35RMQ?usp=sharing
 
-13- affinity propagation clustering :
+13- Affinity Propagation clustering :
 https://colab.research.google.com/drive/1fkgNojwN6vpvZTIKz8fv3UnshIs42fOR?usp=sharing
+
+14- NLP - preprocessing operations:
+https://colab.research.google.com/drive/1Wg1mNuREE6s6Qo7hQm4wQeYpjTptkUwE?usp=sharing
+
+15- NLP - tokenization:
+https://colab.research.google.com/drive/1Z6jaIj9zVMmfWkTx7P3laRMDf9V8zldb?usp=sharing
+
+16- NLP - seq2seq:
+https://colab.research.google.com/drive/1AygakTaueZNOcnNX1gPLBXpzIcUnyVYY?usp=sharing#scrollTo=5Yk6E98JlgCl
+
+17- NLP - text2text-generation:
+https://colab.research.google.com/drive/18p7LjRlEt1XawC0fKueozDcmeN9JCBBr?usp=sharing
+
+18- GANs:
+https://colab.research.google.com/drive/1XfIAswXZySjYJ1CTe1J57Hh_mTfRdtMt?usp=sharing
+
+19- Hugging Face models usage example:
+https://colab.research.google.com/drive/1OvGCZDbIfdCpO3H9_YWFerPl8dlvtp3h?usp=sharing
